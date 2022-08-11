@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah (M. S. Hassan)</h1>
 <h3 align="center">A passionate Data Scientist | Assistant Prof. Minia University | Post-doc Kyushu University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmsmh2010&label=Profile%20views&color=0e75b6&style=flat" alt="mrmsmh2010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmsmh2010&label=Profile%20views&color=0e75b6&style=flat" alt="MoSalah-repos" /> </p>
 
 - 🔭 I’m currently working on **Cleaning and Visualizing a Dataset from Udacity Nanodegree**
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects related to Data Cleaning and Visualization - Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrmsmh2010](https://github.com/mrmsmh2010)
+- 👨‍💻 All of my projects are available at [https://github.com/MoSalah-repos](https://github.com/MoSalah-repos)
 
 - 📫 How to reach me **m.salah@mu.edu.eg**
 
